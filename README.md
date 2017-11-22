@@ -1,5 +1,3 @@
-# Craps-Game
-A Craps game I made for my Java Class. 
 import java.util.Scanner;
 import java.util.Random;
 class Craps {
